@@ -1,1 +1,1 @@
-test and not a token
+@lab.Activity(checkaaduser_scored)
