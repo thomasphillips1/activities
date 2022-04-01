@@ -1,1 +1,1 @@
-@lab.Activity(checkaaduser_scored)
+'@lab.Activity(checkaaduser_scored)'
