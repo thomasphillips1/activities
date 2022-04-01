@@ -1,1 +1,1 @@
-test
+@lab.Activity(checkaaduser_scored)
